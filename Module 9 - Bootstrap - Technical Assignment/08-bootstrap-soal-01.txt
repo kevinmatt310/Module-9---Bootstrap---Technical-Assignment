@@ -1,0 +1,6 @@
+1. CSS Framework adalah kerangka kerja yang memudahkan kita dalam menulis kode CSS yang panjang menjadi lebih sederhana, menggunakan library yang telah disediakan dari framework tersebut.
+2. Bootstrap bukan satu-satunya CSS Framework. Terdapat banyak CSS Framework seperti Bootstrap, tailwind, Bulma, Materialize dan lain-lain. Namun, Bootstrap paling populer dan komunitasnya lebih besar.
+3. Terdapat banyak CSS Framework seperti Bootstrap, tailwind, Bulma, Materialize, UI Kit, Miligram, Pure, Skeleton dan lain-lain.
+4. Cara menggunakan Bootsrap :
+- Instal Bootsrap untuk penggunaan offline atau gunakan CDN link untuk menggunakannya secara online
+- Tuliskan class Bootstrap yang disematkan pada HTML. Kita tinggal melihat dokumentasi class pada website Bootstrap untuk mendesain layout halaman web dengan baris kode yang lebih sederhana.
